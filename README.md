@@ -1,4 +1,3 @@
-# README.md
 
 <h1 align="center">Hi 👋, I'm Harshim Kaur Saluja</h1>
 <h3 align="center">AI Researcher | Building CollegeNavigator.AI & QuantBuilder | Aspiring Quant</h3>
@@ -27,19 +26,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshim1&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshim1&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshim1&layout=compact&theme=tokyonight&langs_count=10" alt="Top Languages" />
-</p>
-
----
 
 ### 🧠 ML Libraries
 
