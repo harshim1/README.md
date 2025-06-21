@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently researching **AI + Cybersecurity** @ Penn State  
 - 🚀 Founder of **CollegeNavigator.AI** and **QuantBuilder**  
-- 🎓 Double majoring in **Computer Science & Statistics**, minoring in **Finance & Cybersecurity**  
+- 🎓 Double majoring in **Computer Science & Statistics**, minoring in **Finance & Entrepreneurship**  
 - 📚 Certified by NVIDIA (ML Engineer), IBM (Full Stack), and AWS (Cloud Foundations)  
 - 💡 I love building things that combine **tech, finance, and impact**
 
@@ -22,7 +22,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,rust,react,html,css,tailwind,postgresql,mongodb,mysql,django,aws,gcp,azure,figma,github,git,linux" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,java,rust,react,html,css,tailwind,javascript,typescript,postgresql,mongodb,mysql,firebase,r,django,aws,gcp,azure,figma,github,git,linux,auth0,cloudfare" />
 </p>
 
 ---
@@ -44,7 +44,7 @@
 ### 🧠 ML Libraries
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,numpy,pandas,matplotlib,seaborn,opencv" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,scikit-learn,numpy,pandas,matplotlib,seaborn,opencv,transformers,nltk,fastai,flask,fastapi,streamlit,PyTorch" />
 </p>
 
 ---
